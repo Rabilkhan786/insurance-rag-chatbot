@@ -1,0 +1,55 @@
+
+# Python cache & build
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+
+# Virtual environments
+
+venv/
+.venv/
+
+
+# Environment & secrets
+
+.env
+.env.*
+*.key
+*.pem
+
+
+# Logs
+
+*.log
+
+
+# Jupyter / ML
+.ipynb_checkpoints/
+
+
+# Vector DB & models
+
+faiss_insurance_index/
+*.bin
+*.pkl
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+
+# Docker 
+*.dockerignore
