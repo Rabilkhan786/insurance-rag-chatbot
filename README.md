@@ -1,4 +1,7 @@
-#  AI Insurance Assitance
+# AI Insurance Assistant
+
+## Live App
+🔗 https://insurance-rag-chatbot-hgr3.onrender.com
 
 A high-performance Retrieval-Augmented Generation (RAG) AI assistant designed to answer complex insurance policy queries instantly.
 
@@ -52,8 +55,8 @@ Built with FastAPI, LangChain, and Docker, this assistant retrieves accurate inf
 ### STEP-01 Clone the repository:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/insurance-rag-agent.git](https://github.com/YOUR_USERNAME/insurance-rag-agent.git)
-cd insurance-rag-agent
+git clone https://github.com/Rabilkhan786/insurance-rag-chatbot.git
+cd insurance-rag-chatbot
 ```
 
 ### Step-02 Create a virtual environment: :
