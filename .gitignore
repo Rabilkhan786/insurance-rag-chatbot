@@ -36,9 +36,9 @@ venv/
 
 # Vector DB & models
 
-faiss_insurance_index/
-*.bin
-*.pkl
+# faiss_insurance_index/
+# *.bin
+# *.pkl
 
 # OS generated files
 
