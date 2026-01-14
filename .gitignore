@@ -1,55 +1,20 @@
-
-# Python cache & build
-
 __pycache__/
-*.py[cod]
+*.pyc
 *.pyo
 *.pyd
-*.so
-*.egg-info/
-dist/
-build/
 
-
-# Virtual environments
+.env
+.env.*
 
 venv/
 .venv/
 
+.DS_Store
+.idea/
+.vscode/
 
-# Environment & secrets
-
-.env
-.env.*
-*.key
-*.pem
-
-
-# Logs
-
+test*.py
 *.log
 
 
-# Jupyter / ML
-.ipynb_checkpoints/
-
-
-# Vector DB & models
-
-# faiss_insurance_index/
-# *.bin
-# *.pkl
-
-# OS generated files
-
-.DS_Store
-Thumbs.db
-
-
-# IDE / Editor files
-.vscode/
-.idea/
-
-
-# Docker 
 *.dockerignore
