@@ -128,12 +128,12 @@ GET /health: Health check to ensure the API is running.
 
 This project is configured for Render.
 
-1 .Push code to GitHub.
+1. Push code to GitHub.
 
 2. Create a new Web Service on Render.
 
-3 .Connect your repository.
+3. Connect your repository.
 
-4 .Add Environment Variables (GROQ_API_KEY) in the Render dashboard.
+4. Add Environment Variables (GROQ_API_KEY) in the Render dashboard.
 
-5 .Render will automatically build using the Dockerfile
+5. Render will automatically build using the Dockerfile
